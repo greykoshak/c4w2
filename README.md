@@ -36,3 +36,34 @@ https://flowingdata.com
 Plotly
 ------
 https://plot.ly/python/
+
+СТАТИСТИКА
+----------
+Лагутин М.Б. Наглядная математическая статистика
+
+Чернова Н.И. https://nsu.ru/mmf/tvims/chernova/sibguti/tv-sibguti.pdf - лекции по теории вероятности в НГУ
+https://nsu.ru/mmf/tvims/chernova/sibguti/tv-sibguti.pdf
+
+Лекции по статистике
+--------------------
+https://nsu.ru/mmf/tvims/chernova/ms/ms_nsu07.pdf
+
+Интерактивные материалы
+-----------------------
+Один из немногих ресурсов по статистике с интерактивной визуализацей. Здесь покрываются темы, начиная с определения вероятности и заканчивая регрессией.
+https://seeing-theory.brown.edu/
+
+Визуализация центральной предельной теоремы
+http://blog.vctr.me/posts/central-limit-theorem.html
+
+Примеры jupyter ноутбуков по статистике
+https://sebastianraschka.com/notebooks/python-notebooks.html
+
+Statistics (scipy.stats)
+------------------------
+https://docs.scipy.org/doc/scipy-1.1.0/reference/tutorial/stats.html
+
+
+
+
+
